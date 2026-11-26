@@ -286,7 +286,7 @@ The application requires the appropriate MongoDB and Pusher configuration for th
 **Youssef Zhar**
 
 GitHub:
-https://github.com/Joseph-Nostra
+https://github.com/Youssef-Zhar
 
 ---
 
