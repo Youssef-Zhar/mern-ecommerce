@@ -156,7 +156,7 @@ npm -v
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Joseph-Nostra/mern-ecommerce.git
+git clone https://github.com/Youssef-Zhar/mern-ecommerce.git
 ```
 
 ### 2. Go to the project directory
